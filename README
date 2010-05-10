@@ -1,13 +1,8 @@
 NAME
-    ORDB::CPANRT - An ORLite-based ORM database for rt.cpan.org
+    ORDB::CPANRT - An ORLite-based ORM Database API
 
 DESCRIPTION
-    ORDB::CPANRT is a light weight ORM module that gives you direct access
-    to an official exported copy of the most important ticket properties of
-    all bugs reported in <http://rt.cpan.org/>.
-
-    It automatically updates as needed as the export files on the RT website
-    are updated.
+    TO BE COMPLETED
 
 METHODS
   dsn
@@ -159,7 +154,7 @@ METHODS
       my $version = ORDB::CPANRT->pragma('user_version');
 
     The "pragma" method provides a convenient method for fetching a pragma
-    for a datase. See the SQLite documentation for more details.
+    for a database. See the SQLite documentation for more details.
 
 SUPPORT
     ORDB::CPANRT is based on ORLite.
@@ -173,9 +168,8 @@ SUPPORT
     For other issues, contact the author.
 
 AUTHOR
-    Adam Kennedy <adamk@cpan.org>
+    Adam Kennedy <adamk@cpan.org> =head1 COPYRIGHT
 
-COPYRIGHT
     Copyright 2010 Adam Kennedy.
 
     This program is free software; you can redistribute it and/or modify it

@@ -1,5 +1,5 @@
 ---
-abstract: 'An ORLite-based ORM database for rt.cpan.org'
+abstract: 'An ORLite-based ORM Database API'
 author:
   - 'Adam Kennedy <adamk@cpan.org>'
 build_requires:
@@ -29,4 +29,4 @@ resources:
   ChangeLog: http://fisheye2.atlassian.com/changelog/cpan/trunk/ORDB-CPANRT
   license: http://dev.perl.org/licenses/
   repository: http://svn.ali.as/cpan/trunk/ORDB-CPANRT
-version: 0.02
+version: 0.03
