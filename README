@@ -159,7 +159,7 @@ METHODS
 SUPPORT
     ORDB::CPANRT is based on ORLite.
 
-    Documentation created by ORLite::Pod 0.08.
+    Documentation created by ORLite::Pod 0.11.
 
     Bugs should be reported via the CPAN bug tracker at
 
@@ -170,7 +170,7 @@ SUPPORT
 AUTHOR
     Adam Kennedy <adamk@cpan.org> =head1 COPYRIGHT
 
-    Copyright 2010 Adam Kennedy.
+    Copyright 2011 Adam Kennedy.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
